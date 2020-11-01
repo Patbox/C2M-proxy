@@ -1,0 +1,13 @@
+{
+  "port": 25565,
+  "address": "0.0.0.0",
+  "name": "MCServer",
+  "motd": "Another Minecraft2VoxelSRV proxy",
+  "public": false,
+  "maxplayers": 10,
+  "chunkTransportCompression": false,
+  "connect": {
+    "address": "localhost",
+    "port": 25565
+  }
+}
